@@ -27,6 +27,10 @@
         </activity>
         <activity android:name=".order.OrderDetailActivity">
         </activity>
+        <activity android:name=".Information.api.InformationChangeActivity">
+        </activity>
+        <activity android:name=".Information.api.InformationViewActivity">
+        </activity>
     </application>
 
 </manifest>
